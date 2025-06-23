@@ -29,5 +29,6 @@
 - 🌐 Always open to collaboration or learning from others!
   
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for visiting my profile! 😄
