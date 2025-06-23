@@ -28,7 +28,11 @@
 - 📧 it2024151@hua.gr
 - 🌐 Always open to collaboration or learning from others!
   
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Statistics.
+
+[![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stars](https://img.shields.io/github/stars/xSen1or/repo-name?style=social)
+
 
 Thanks for visiting my profile! 😄
