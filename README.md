@@ -30,7 +30,9 @@
   
 ## GitHub Statistics.
 ![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSen1or&hide_progress=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 Thanks for visiting my profile! 😄
