@@ -16,22 +16,28 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 💻 Java
 - 🌐 JavaScript
 - ⚙️ C / C#
 - 🎨 HTML / CSS
+- 📚 MySQL 
 - 📁 Git & GitHub
 - 🧪 Currently learning: frameworks, algorithms, and clean architecture.
 
 ## 📌 Interests
 
 - Backend development
+- Frontend design
+- Database Handling
 - Algorithms & data structures
 - Software design principles
 - Open source collaboration
 
 ## 📫 Get in touch
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/puma.loc0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it2024151@hua.gr)
 
 - 📧 it2024151@hua.gr
 - 🌐 Always open to collaboration or learning from others!
