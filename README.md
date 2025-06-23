@@ -32,7 +32,7 @@
 
 [![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stars](https://img.shields.io/github/stars/xSen1or/repo-name?style=social)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or&show_icons=true&theme=radical)
 
 
 Thanks for visiting my profile! 😄
