@@ -46,7 +46,7 @@
 ![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or&show_icons=true&theme=radical) 
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/xSenitor/xSen1or/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xSen1or/xSen1or/blob/output/github-contribution-grid-snake.svg)
 
 
 
