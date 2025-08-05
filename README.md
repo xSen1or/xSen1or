@@ -43,7 +43,8 @@
 - 🌐 Always open to collaboration or learning from others!
   
 ## GitHub Statistics.
-![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or&show_icons=true&theme=radical) ![Snake animation](https://github.com/xSen1or/blob/output/github-contribution-grid-snake.svg)
+![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or&show_icons=true&theme=radical) ![Snake animation](https://github.com/xSenitor/xSen1or/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
