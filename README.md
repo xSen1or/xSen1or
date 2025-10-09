@@ -26,7 +26,7 @@
 - 🎨 HTML / CSS
 - 📚 MySQL 
 - 📁 Git & GitHub
-- 🧪 Currently learning: frameworks, algorithms, and clean architecture.
+- 🧪 Currently learning: frameworks, API, Web Development and clean architecture.
 
 ## 📌 Interests
 
