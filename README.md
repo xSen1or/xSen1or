@@ -34,6 +34,8 @@
 
 ## 📌 Interests
 
+- Machine Learning
+- Cybersecurity
 - Backend development
 - Frontend design
 - Database Handling
