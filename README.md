@@ -8,6 +8,10 @@
 - 📍 Based in Athens, Greece.
 - 🚀 Always experimenting with side projects and exploring new tech.
 
+## 🔨 On Going Projects
+
+- 🌐 Currently Designing my web Portfolio
+
 ## 🧰 Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
