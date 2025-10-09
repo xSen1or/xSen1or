@@ -22,6 +22,7 @@
 - 💻 Java
 - 🌐 JavaScript
 - ⚙️ C / C#
+- 🐍 Python
 - 🎨 HTML / CSS
 - 📚 MySQL 
 - 📁 Git & GitHub
@@ -43,12 +44,3 @@
 - 📧 it2024151@hua.gr
 - 🌐 Always open to collaboration or learning from others!
   
-## GitHub Statistics.
-![Dimitris's GitHub stats](https://github-readme-stats.vercel.app/api?username=xSen1or&show_icons=true&theme=radical) 
-
-
-
-
-
-
-Thanks for visiting my profile! 😄
